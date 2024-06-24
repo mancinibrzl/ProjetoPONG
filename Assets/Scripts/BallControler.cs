@@ -47,5 +47,7 @@ public class BallControler : MonoBehaviour
             ResetBall();
             ;
         }
+		
+		// Teste de commit
     }
 }
